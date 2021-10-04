@@ -9,7 +9,7 @@ import TopBar from "./components/TopBar";
 /*
 1 - installer expo : npm install --global expo-cli  et check la version expo -V + init projet : expo init my-project
 2 - installer react native gesture handler : expo install react-native-gesture-handler
-3 - installer axios requète http
+3 - installer axios requète http :  npm i axios
  */
 
 export default function App() {
