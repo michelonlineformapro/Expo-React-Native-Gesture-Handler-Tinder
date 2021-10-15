@@ -1,0 +1,13 @@
+{
+  "entreprises": [
+    {
+      "id": 1,
+      "nom": "casino",
+      "email": "casino@gmail.com",
+      "telephone": "04 76 25 78 15",
+      "domaine": "https://test.com",
+      "password": "test",
+      "password_repeat": "test"
+    }
+  ]
+}

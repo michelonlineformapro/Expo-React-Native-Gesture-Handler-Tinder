@@ -14,7 +14,7 @@ import SwipeableImage from './SwipeableImage'
 //Recup des valeurs du composants parent App.js = tableau utilisateur + index + 2 fonctions liker et passer
 function Swipes({utilisateurs, utilisateurIndex, handleLike, handlePasse}){
 
-    //Hooks d'action is on va aimer ou passer faux par defaut
+    //Hooks d'action is on va aimer ou passer faux par defaut vaAimer = false vaPasser = false
     const [vaAimer, setVaAimer] = useState(false);
     const [vaPasser, setVaPasser] = useState(false);
 
